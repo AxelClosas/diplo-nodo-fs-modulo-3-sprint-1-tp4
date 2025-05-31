@@ -1,0 +1,29 @@
+{
+  "name": "tp4",
+  "version": "1.0.0",
+  "description": "TP4 del Modulo Backend - Sprint 1",
+  "keywords": [
+    "Javascript",
+    "Express",
+    "API",
+    "Node.js"
+  ],
+  "homepage": "https://github.com/AxelClosas/diplo-nodo-fs-modulo-3-sprint-1-tp4#readme",
+  "bugs": {
+    "url": "https://github.com/AxelClosas/diplo-nodo-fs-modulo-3-sprint-1-tp4/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AxelClosas/diplo-nodo-fs-modulo-3-sprint-1-tp4.git"
+  },
+  "license": "MIT",
+  "author": "Axel Closas <axelclosas13@gmail.com>",
+  "type": "module",
+  "main": "server.mjs",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
